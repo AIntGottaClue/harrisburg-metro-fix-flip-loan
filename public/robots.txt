@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://harrisburgfixandflip.loansapp.cfd/sitemap.xml
